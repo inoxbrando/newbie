@@ -1,6 +1,6 @@
 
 
-**Company Founder:** Katherine Krukowski
+**Company Founder:** Katherine
 # Reduce Waste to Sustain
 ### We are developing a new system to reduce waste.
 
